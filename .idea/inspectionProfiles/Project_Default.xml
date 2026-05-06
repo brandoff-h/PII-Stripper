@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="dbis-relational-algebra" />
+          <option value="docstring-inheritance" />
+          <option value="gradescope-utils" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="six" />
+          <option value="typeguard" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
