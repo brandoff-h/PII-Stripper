@@ -12,3 +12,5 @@ with open(f"csv_files/{file_path}", "r") as file:
     for row in reader:
         pass
 
+    # use re.sub to swap out instances of the regex statements in the message columns
+
